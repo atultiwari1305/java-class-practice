@@ -1,6 +1,6 @@
 public class ExceptionPropagation {
     void m(){
-        int data = 50/0;
+        // int data = 50/0;
     }
     void n(){
         m();
