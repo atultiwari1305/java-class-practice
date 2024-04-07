@@ -18,6 +18,6 @@ public class exceptionHandling2 {
     }
     public static void main(String[] args){
         validate(18);
-        System.out.println("Rest of the code");
+        System.out.println("Rest of the code will be printed");
     }
 }
